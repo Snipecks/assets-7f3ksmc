@@ -1,1 +1,10 @@
-  ["Cape_chill_cat.png", "Affe.png", "Cape_Fortnite.png", "Cape_Gengar.png", "Cape_Uchiha.png", "Cape_Waschbär_Monster.png", "Cape_cat.png", "Cape_cat2.png", "Cape_cat_dark.png", "Cape_lego.png", "Cape_finanzamt.png", "Cape_goofy_smile.png", "Cape_katze.png"]
+{
+  "Cape_cat_dark.png": "Dunkle Katze",
+  "Cape_chill_cat.png": "Chill Katze",
+  "Cape_finanzamt.png": "Finanzamt",
+  "Cape_Fortnite.png": "Fortnite",
+  "Cape_Gengar.png": "Gengar",
+  "Cape_goofy_smile.png": "Goofy",
+  "Cape_katze.png": "Katze",
+  "Cape_lego.png": "Lego"
+}
